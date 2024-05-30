@@ -1,0 +1,7 @@
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\LearningApp.exe
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\appsettings.Development.json
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\appsettings.json
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\LearningApp.dll
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\LearningApp.deps.json
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\LearningApp.runtimeconfig.json
+C:\Parashu\POCs\AZ 204\temp\LearningApp\bin\Publish\LearningApp.pdb
